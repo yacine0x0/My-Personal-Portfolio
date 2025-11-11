@@ -54,7 +54,7 @@ section{
 }
 
 section p {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
     line-height: 1.6;
     color: grey;
@@ -75,3 +75,36 @@ section a:active{
 }
 
 
+.my-skills div{
+    border: 5px solid grey;
+    width: 50%;
+    height: fit-content;
+
+    margin-bottom: 50px;
+}
+
+.music-left{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.coding-right{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.languages-center{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.certifications-center{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
