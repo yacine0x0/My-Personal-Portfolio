@@ -108,3 +108,39 @@ section a:active{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.my-projects {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.project-content {
+margin: 0 auto;
+margin-bottom: 30px;
+height: fit-content;
+padding: 10px 10px 10px 10px;
+border: 3px solid grey;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.project-content a{
+    font-size: 30px;
+}
+
+.project-preview {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 50%;
+    height: auto;
+    border: 2px solid grey; 
+}
+
+.project-description{
+    width: 85%;
+    
+}
