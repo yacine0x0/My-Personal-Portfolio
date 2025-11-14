@@ -1,10 +1,19 @@
-# My-Personal-Portfolio
-This portofolio represents me and my tech skills (web dev mostly), I'm going to be trying out in it  perfecting my knowledge and using it as a daily training field.
+# 🌐 My Personal Portfolio
 
-You'll notice my advancement as you scroll down the content of this website from basic to advanced, separated in sections organized by dates, showing my growth along my journey.
+---
 
-Feel free to use any section of code you like, or ask about how I made certain functionalities, just make sure you give me credit or any sort of reference.
+## 📌 Overview  
+This portfolio represents me and my **tech skills** — mainly **web development**. It showcases my knowledge as a Computer Science student, my programming abilities, and my overall learning journey.
 
-I'm open to any critics or advice, you can address me on github or by any means you prefer, I thank for advance !
+I use it as a **daily training field** to improve and experiment.  
 
-Enjoy Yo self :3
+As you scroll through the website, you'll notice my progression from **basic → advanced**, organized into clear sections that highlight my growth over time. 🚀
+
+---
+
+## ⚠️ Disclaimer  
+Feel free to use any piece of code you like or ask about how I implemented certain features — just make sure to give proper **credit** or provide any form of reference.  
+
+I'm open to **feedback, critiques, or advice**.  
+You can contact me on GitHub or through any method you prefer.  
+Thank you in advance! 🙏
